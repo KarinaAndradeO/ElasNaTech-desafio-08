@@ -9,12 +9,12 @@ Projeto desenvolvido na **Aula 08** do curso **Elas na Tech 2023**, com foco em 
 - Estrutura semântica utilizando as tags `header`, `main`, `section` e `footer`
 - Menu de navegação estilizado com realce ao passar o mouse
 
-## 🎨 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 
-## 🧠 Aprendizados
+## 📚 Aprendizados
 
 - Aplicar efeitos visuais com `:hover`
 - Usar filtros CSS como `filter: grayscale(100%)`
